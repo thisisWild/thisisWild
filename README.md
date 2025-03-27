@@ -1,4 +1,4 @@
-Hi, I’m @thisisWild  
+Hi, 
 Welcome to my corner of the wild web!  
 
  About Me:
