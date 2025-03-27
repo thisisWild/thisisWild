@@ -5,7 +5,7 @@ Welcome to my corner of the wild web!
 I'm passionate about coding and always on the lookout for new adventures in tech, creativity, and beyond. Exploring the intersection of innovation and problem-solving is my jam!
 
   Currently Learning:
-I'm diving deep into new programming languages always looking to level up my skills and stay ahead of the curve. 🚀
+I'm diving deep into new programming languages always looking to level up my skills and stay ahead of the curve. 
 
  Open to Collaboration:
 Got an exciting project or idea? Let’s team up! I’m eager to collaborate on any project whether it’s building something awesome, solving problems, or breaking boundaries!
